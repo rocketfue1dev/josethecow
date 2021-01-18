@@ -184,4 +184,4 @@ client.on('message', message => {
 	}
 });
 // Make sure to switch back the token when you are going between Developer Testing and Official Release mode.
-client.login('Nzk3NjQyMDA5MDE0ODI5MDU2.X_pcAg.ZA_dXlbvSCY1GafjwGJnVWCe-Vg');
+client.login('insert-your-token-here');
